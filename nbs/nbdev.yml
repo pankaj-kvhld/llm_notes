@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "llm_notes"
+  site-url: "https://pankaj-kvhld.github.io/llm_notes"
+  description: "My notes on Large Language Models"
+  repo-branch: main
+  repo-url: "https://github.com/pankaj-kvhld/llm_notes"
